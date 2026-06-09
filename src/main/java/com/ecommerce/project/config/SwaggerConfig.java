@@ -25,7 +25,7 @@ public class SwaggerConfig {
 
         return new OpenAPI()
                 .info(new Info()
-                        .title("Prismshop eCommerce API")
+                        .title("Vyra E-commerce API")
                         .version("1.0")
                         .description("Spring Boot eCommerce Backend by Aditya Allurii")
                         .contact(new Contact()
