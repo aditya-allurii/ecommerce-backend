@@ -27,7 +27,7 @@ Production-ready E-Commerce Backend built using Spring Boot, Spring Security, JW
 
 ## Deployment
 
-Backend: Railway
+Backend: Render
 
 Frontend Repository:
 https://github.com/aditya-allurii/ecommerce-frontend
